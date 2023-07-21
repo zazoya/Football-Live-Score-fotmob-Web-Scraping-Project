@@ -1,7 +1,5 @@
 **GitHub Repository Description: Football Live Score Web Scraping Project**
 
-![GitHub Repository Banner](https://example.com/path-to-image)
-
 **Project Overview:**
 This GitHub repository contains a web scraping project designed to fetch live football scores from the website https://www.fotmob.com/. The script takes user input to determine whether to fetch data for "Today" or a "Specific day." If the user chooses the latter, they need to provide a date in the format "YYYY-MM-DD."
 
